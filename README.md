@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wenodh.
 - 👀 I’m interested in exploring software.
 - 🌱 I’m currently learning wed development.
-- 💞️ I’m looking to collaborate on kotlin or wed develeopment related projects.
+- 💞️ I’m looking to collaborate on wed develeopment related projects.
 - 📫 How to reach me through mail: vinodkumara3@gmail.com
 
 <!---
