@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning wed development.
 - 💞️ I’m looking to collaborate on wed develeopment related projects.
 - 📫 How to reach me through mail: vinodkumara3@gmail.com
+- HackerRank <a href="https://www.hackerrank.com/certificates/e7beaa3df808">Problem Solving (Intermediate) Certificate</a>
+- <a href="https://codeforces.com/profile/Wenodh">CodeForces</a>
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
