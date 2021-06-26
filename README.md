@@ -20,7 +20,13 @@
 ![](https://img.shields.io/badge/-Html-yellow?logo=html5)
 ![](https://img.shields.io/badge/-Css-2bbc8a?logo=css3)
 
-## My Certificates [2]
+## My Certificates [3]
+<details> <summary>:zap: FreeCodeCamp Certificates [1].</summary>
+ 
+![Certificate](https://user-images.githubusercontent.com/63317955/123521421-38d7a700-d6d4-11eb-9305-91ffef535c35.png)
+ 
+</details>
+
 <details> <summary>:zap: HackerRank Certificates [2].</summary>
  
 ![Certificate](https://user-images.githubusercontent.com/63317955/122657957-a7bd7900-d185-11eb-949d-19433c7e1e5c.png)
