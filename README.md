@@ -17,11 +17,12 @@
 ![](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)
 ![](https://img.shields.io/badge/-Bash-orange?logo=gnu-bash)
 ![](https://img.shields.io/badge/-Kotlin-blueviolet?logo=kotlin)
-![](https://img.shields.io/badge/-Html-yellow?logo=html5)
-![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3)
 ![](https://img.shields.io/badge/-React-4D0026?logo=react)
 ![](https://img.shields.io/badge/-npm-EFDECD?logo=npm)
-
+![](https://img.shields.io/badge/-Node.js-334183?logo=Node.js)
+![](https://img.shields.io/badge/-mongodb-c14438?logo=mongodb)
+<!-- ![](https://img.shields.io/badge/-Html-yellow?logo=html5)
+![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3) -->
 ## My Certificates [3]
 <details> <summary>:zap: FreeCodeCamp Certificates [1].</summary>
  
