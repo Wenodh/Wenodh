@@ -4,7 +4,7 @@
 -   💞️ I’m looking to collaborate on wed development related projects.
 -   📫 How to reach me through mail: vinodkumara3@gmail.com
 -   HackerRank <a href="https://www.hackerrank.com/certificates/e7beaa3df808">Problem Solving (Intermediate) Certificate</a>
--   <a href="https://codeforces.com/profile/Wenodh">CodeForces</a>
+<!-- -   <a href="https://codeforces.com/profile/Wenodh">CodeForces</a> -->
 
 [![Gmail Badge](https://img.shields.io/badge/-vinodkumara3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinodkumara3@gmail.com)](mailto:vinodkumara3@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-we_nodh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/we_nodh/)](https://instagram.com/we_nodh)
