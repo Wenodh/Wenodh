@@ -41,9 +41,13 @@
  
 </details>
 
-<details> <summary>:zap: MongoDB Certificates [1].</summary>
+<details> <summary>:zap: MongoDB Certificates [2].</summary>
  
 ![M001_proof_of_completion](https://user-images.githubusercontent.com/63317955/140433855-d4cc8887-7194-4637-b7cb-ebf044082e92.jpg)
+![M320_proof_of_completion](https://user-images.githubusercontent.com/63317955/140622227-5283164a-5642-4178-8ffe-66e95f8c1941.jpg)
+<!-- 
+![M320_proof_of_completion](https://university.mongodb.com/course_completion/585d77c0-1530-4128-a13d-0674d9d6f64f?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing) -->
+
  
 </details>
 
