@@ -26,7 +26,7 @@
 <!-- ![](https://img.shields.io/badge/-Html-yellow?logo=html5)
 ![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3) -->
 
-## My Certificates [5]
+## My Certificates [6]
 
 <details> <summary>:zap: FreeCodeCamp Certificates [1].</summary>
  
@@ -48,6 +48,11 @@
 <!-- 
 ![M320_proof_of_completion](https://university.mongodb.com/course_completion/585d77c0-1530-4128-a13d-0674d9d6f64f?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing) -->
 
+ 
+</details>
+<details> <summary>:zap: LinkedIn Certificates [1].</summary> 
+ 
+![JavaScript Essential Training](https://user-images.githubusercontent.com/63317955/143783566-f3f08df3-ad72-46cc-ab86-cfbf94e4b60a.png)
  
 </details>
 
