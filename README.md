@@ -1,6 +1,6 @@
 -   👋 Hi, I’m @Wenodh.
 -   👀 I’m interested in exploring software.
--   🌱 I’m currently learning wed development.
+<!-- -   🌱 I’m currently learning wed development. -->
 -   💞️ I’m looking to collaborate on wed development related projects.
 -   📫 How to reach me through mail: vinodkumara3@gmail.com
 -   HackerRank <a href="https://www.hackerrank.com/certificates/e7beaa3df808">Problem Solving (Intermediate) Certificate</a>
