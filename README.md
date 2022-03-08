@@ -1,11 +1,11 @@
 -   👋 Hi, I’m @Wenodh.
 -   👀 I’m interested in exploring software.
-<!-- -   🌱 I’m currently learning wed development. -->
 -   💞️ I’m looking to collaborate on web development related projects.
 -   📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-vinodkumara3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinodkumara3@gmail.com)](mailto:vinodkumara3@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-we_nodh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/we_nodh/)](https://instagram.com/we_nodh)
 [![Linkedin Badge](https://img.shields.io/badge/-Vinod_Kumar_A-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinod-kumar-a-6582ab116/)](https://www.linkedin.com/in/vinod-kumar-a-6582ab116/)
 [![CodeForces Badge](https://img.shields.io/badge/-Wenodh-yellow?style=flat-square&logo=Codeforces&link="https://codeforces.com/profile/Wenodh/)](https://codeforces.com/profile/Wenodh/)
 [![HackerRank Badge](https://img.shields.io/badge/-Vinod_Kumar_A-636262?style=flat-square&logo=HackerRank&link="https://www.hackerrank.com/vinodkumara3/)](https://www.hackerrank.com/vinodkumara3/)
+<!-- -   🌱 I’m currently learning wed development. -->
 <!-- -   through mail: vinodkumara3@gmail.com -->
 <!-- -   HackerRank <a href="https://www.hackerrank.com/certificates/e7beaa3df808">Problem Solving (Intermediate) Certificate</a> -->
 <!-- -   <a href="https://codeforces.com/profile/Wenodh">CodeForces</a> -->
