@@ -9,6 +9,9 @@
 <!-- -   through mail: vinodkumara3@gmail.com -->
 <!-- -   HackerRank <a href="https://www.hackerrank.com/certificates/e7beaa3df808">Problem Solving (Intermediate) Certificate</a> -->
 <!-- -   <a href="https://codeforces.com/profile/Wenodh">CodeForces</a> -->
+
+
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/-Linux-black?logo=linux)
@@ -53,11 +56,17 @@
  
 </details>
 
+
+
 ## &#x1f4c8; GitHub Stats
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=wenodh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenodh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Wenodh" /></p>
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wenodh&theme=radical" alt="Wenodh" /></p>
+ 
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenodh&show_icons=true&count_private=true&theme=radical)
 
