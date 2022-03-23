@@ -58,6 +58,7 @@
 
 
 
+
 ## &#x1f4c8; GitHub Stats
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=wenodh)](https://github.com/ryo-ma/github-profile-trophy)
@@ -76,6 +77,8 @@
 
 <!--![Metrics](https://metrics.lecoq.io/Wenodh?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)-->
 
+<a href="https://app.daily.dev/Wenodh"><img src="https://api.daily.dev/devcards/57568fa196e549768b378092e04662c8.png?r=wkz" width="400" alt="Wenodh's Dev Card"/></a>
+
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Wenodh/count.svg)
 
 <!-- Resources -->
@@ -86,10 +89,7 @@ Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Wenodh/count.s
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-<!---
-Wenodh/Wenodh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 <p style="text-align: center;">Plus Ultra</p>
 <p>GO OUT OF CONTROL WITH CONTROL</p>
