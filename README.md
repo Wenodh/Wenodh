@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/-npm-EFDECD?logo=npm)
 ![](https://img.shields.io/badge/-Node.js-334183?logo=Node.js)
 ![](https://img.shields.io/badge/-mongodb-c14438?logo=mongodb)
-
+![](https://img.shields.io/badge/-PWA-z19428?logo=Pwa)
 <!-- ![](https://img.shields.io/badge/-Html-yellow?logo=html5)
 ![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3) -->
 
