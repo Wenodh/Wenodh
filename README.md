@@ -78,6 +78,8 @@
 <!--![Metrics](https://metrics.lecoq.io/Wenodh?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)-->
 
 <!-- <a href="https://app.daily.dev/Wenodh"><img src="https://api.daily.dev/devcards/57568fa196e549768b378092e04662c8.png?r=wkz" width="400" alt="Wenodh's Dev Card"/></a> -->
+[![wenodh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wenodh&theme=dark)](https://github.com/wenodh/leetcode-stats)
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Wenodh/Wenodh/blob/main/devcard.svg" width="250" alt="Wenodh's Dev Card"/></a>
 <!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a> -->
 
@@ -90,7 +92,6 @@ Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Wenodh/count.s
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
 
 
 <p style="text-align: center;">Plus Ultra</p>
