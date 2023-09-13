@@ -27,7 +27,12 @@
 ![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3) -->
 
 ## My Certificates [6]
+<details> <summary>:zap: Meta FrontEnd Certificates [1].</summary>
+ [Coursera 7YCV29DGX287 (1).pdf](https://github.com/Wenodh/Wenodh/files/12600347/Coursera.7YCV29DGX287.1.pdf)
+ ![image](https://github.com/Wenodh/Wenodh/assets/63317955/864128ac-dbf1-477f-89ec-10fa35aff751)
 
+ 
+</details>
 <details> <summary>:zap: FreeCodeCamp Certificates [1].</summary>
  
 ![Certificate](https://user-images.githubusercontent.com/63317955/123521421-38d7a700-d6d4-11eb-9305-91ffef535c35.png)
