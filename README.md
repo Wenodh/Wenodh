@@ -1,32 +1,36 @@
--   👋 Hi, I’m @Wenodh.
--   👀 I’m interested in exploring software.
--   💞️ I’m looking to collaborate on web development related projects.
--   📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-vinodkumara3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinodkumara3@gmail.com)](mailto:vinodkumara3@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-we_nodh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/we_nodh/)](https://instagram.com/we_nodh)
-[![Linkedin Badge](https://img.shields.io/badge/-Vinod_Kumar_A-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinod-kumar-a-6582ab116/)](https://www.linkedin.com/in/vinod-kumar-a-6582ab116/)
-[![CodeForces Badge](https://img.shields.io/badge/-Wenodh-yellow?style=flat-square&logo=Codeforces&link="https://codeforces.com/profile/Wenodh/)](https://codeforces.com/profile/Wenodh/)
-[![HackerRank Badge](https://img.shields.io/badge/-Vinod_Kumar_A-636262?style=flat-square&logo=HackerRank&link="https://www.hackerrank.com/vinodkumara3/)](https://www.hackerrank.com/vinodkumara3/)
-<!-- -   🌱 I’m currently learning wed development. -->
-<!-- -   through mail: vinodkumara3@gmail.com -->
-<!-- -   HackerRank <a href="https://www.hackerrank.com/certificates/e7beaa3df808">Problem Solving (Intermediate) Certificate</a> -->
-<!-- -   <a href="https://codeforces.com/profile/Wenodh">CodeForces</a> -->
+<!-- Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wenodh+👋;React.js+Developer+⚛️;JavaScript+Engineer+🚀;Frontend+Craftsman+🎨;Problem+Solver+💡;Lifelong+Learner+📚" alt="Typing Animation" />
+</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus:-Web%20Development-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring:-AI%20+%20Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
+---
 
-## 🔧 Technologies & Tools
+## 🌐 Connect With Me  
 
-![](https://img.shields.io/badge/-Linux-black?logo=linux)
-![](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)
-![](https://img.shields.io/badge/-Bash-orange?logo=gnu-bash)
-![](https://img.shields.io/badge/-Kotlin-blueviolet?logo=kotlin)
-![](https://img.shields.io/badge/-React-4D0026?logo=react)
-![](https://img.shields.io/badge/-npm-EFDECD?logo=npm)
-![](https://img.shields.io/badge/-Node.js-334183?logo=Node.js)
-![](https://img.shields.io/badge/-mongodb-c14438?logo=mongodb)
-![](https://img.shields.io/badge/-PWA-z19428?logo=Pwa)
-<!-- ![](https://img.shields.io/badge/-Html-yellow?logo=html5)
-![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3) -->
+<p align="center">
+  <a href="mailto:vinodkumara3@gmail.com"><img src="https://img.shields.io/badge/Gmail-E63946?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/we_nodh"><img src="https://img.shields.io/badge/Instagram-F39C12?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vinod-kumar-a-6582ab116/"><img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Wenodh"><img src="https://img.shields.io/badge/CodeForces-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/vinodkumara3"><img src="https://img.shields.io/badge/HackerRank-00B894?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
 
-## My Certificates [15]
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,tailwind,bootstrap,mongodb,postgres,git,github,linux,bash,aws,vscode&perline=8" />
+</p>
+
+---
+
+## 🎓 Certificates
 <details> <summary>:zap: Meta Front-End Developer Professional Certificate [9].</summary>
  
 ![image](https://github.com/Wenodh/Wenodh/assets/63317955/b46d874f-2fd9-4078-bf02-ad2e207bbacc)
@@ -79,42 +83,56 @@
 </details>
 
 
+---
 
+## 📊 GitHub Stats  
 
-## &#x1f4c8; GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wenodh&show_icons=true&theme=vue-dark&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wenodh&theme=vue-dark&hide_border=false" height="180" />
+</p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=wenodh)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenodh&layout=compact&theme=vue-dark" height="160" />
+</p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenodh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Wenodh" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wenodh&theme=flat&column=7&margin-w=8&margin-h=8" />
+</p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wenodh&theme=radical" alt="Wenodh" /></p>
- 
+---
 
+<!--- ## 🚀 Featured Projects  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenodh&show_icons=true&count_private=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/Wenodh/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenodh&repo=your-project-1&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/Wenodh/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenodh&repo=your-project-2&theme=vue-dark" />
+  </a>
+</p>
 
-</div>
+---
+--->
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wenodh&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
+## 🧑‍💻 Dev Card  
 
-<!--![Metrics](https://metrics.lecoq.io/Wenodh?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)-->
+<p align="center">
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img src="https://github.com/Wenodh/Wenodh/blob/main/devcard.svg" width="300" alt="Wenodh's Dev Card"/>
+  </a>
+</p>
 
-<!-- <a href="https://app.daily.dev/Wenodh"><img src="https://api.daily.dev/devcards/57568fa196e549768b378092e04662c8.png?r=wkz" width="400" alt="Wenodh's Dev Card"/></a> 
-[![wenodh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wenodh&theme=dark)](https://github.com/wenodh/leetcode-stats)
--->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Wenodh/Wenodh/blob/main/devcard.svg" width="250" alt="Wenodh's Dev Card"/></a>
-<!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a> -->
+---
 
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Wenodh/count.svg)
+## ✨ Visitor Count  
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wenodh&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</p>
 
+---
 
-<p style="text-align: center;">Plus Ultra</p>
-<p>GO OUT OF CONTROL WITH CONTROL</p>
+<h3 align="center" style="color:#2F80ED">⚡ 「 Plus Ultra 」 ⚡</h3>
+<p align="center" style="color:#F39C12">🚀 Go out of control, with control.</p>
